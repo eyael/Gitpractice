@@ -1,0 +1,14 @@
+1 Ask the customer's name purchase amount purchase amount and tax code 
+based on the purchase amount calculate the tax code 
+if the tax code is 0 tax exempt 
+if the tax code is 1 state sales tax 3%
+if the tax code is 2 federal and states sales tax 5%
+if the tax code is 3 special tax going to be 7%
+calculate the sales tax and total amount due
+print customer's name 
+
+2 read employee number pay rate and the number of hour worked 
+validate the pay should be maximum 60 hr and 25$
+if more than 35 hours should be calculated at time-and-a-half
+if valid calculate employee's weekly pay
+print it
