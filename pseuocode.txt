@@ -1,0 +1,13 @@
+1 Ask the user for an integer
+and add 5 in that integer number
+the result times by two
+substract 7 from the result 
+display the result 
+2 add three numbers to the result 
+3 ten exam score are needed 
+display the result 
+average score is equal to the sum of score divided by 
+the number of scores 
+4 dimension s of footprint convert to the inces
+multiply the roof by the number of inch rainfall 
+
